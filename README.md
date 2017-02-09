@@ -1,0 +1,1 @@
+# Super simple extension to hide the stuff you don't need on Passwork

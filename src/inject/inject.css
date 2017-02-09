@@ -1,0 +1,25 @@
+.nav, .footer, .btn-group-create, .panel-profile, .brand {
+	display:none !important;
+}
+
+.pwdshare {
+	background:#3B434B !important;
+}
+
+.pwdshare .btn.btn-green {
+	color:#4db5c5 !important;
+	border-color:#4db5c5 !important;
+}
+
+.pwdshare .btn.btn-green:hover, #progress-bar{
+	background:#4db5c5 !important;
+}
+
+body.pwdshare a {
+	color:#4db5c5 !important;
+}
+
+
+body.pwdshare .list-groups li.active {
+	color:#ec443c !important;
+}
